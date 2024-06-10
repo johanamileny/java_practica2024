@@ -16,5 +16,5 @@ function calcularBMI(peso, altura) {
     }
     //console.log("Cálculo de BMI completado.");
 }
-calcularBMI(60, 1.50);
+calcularBMI(65, 1.65);
 console.log("El cálculo de tu BMI ha sido completado con éxito.");
